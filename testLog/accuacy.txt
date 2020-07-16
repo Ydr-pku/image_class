@@ -1,0 +1,11 @@
+VGG16,cat,0.0%
+VGG16,dog,100.0%
+VGG19,dog,100.0%
+VGG19,cat,0.0%
+VGG19,dog,100.0%
+VGG19,dog,100.0%
+VGG19,cat,0.0%
+VGG19,dog,0.0%
+VGG19,cat,100.0%
+VGG16,cat,100.0%
+VGG16,dog,0.0%

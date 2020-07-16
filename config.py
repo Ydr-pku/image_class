@@ -41,6 +41,6 @@ class DefaultConfig():
     data_augmentation = False
     monitor = 'val_loss'
     cut = False
-    rat = 0.1 #if cut,img[slice(h*self.rat,h-h*self.rat),slice(w*self.rat,w-w*self.rat)]
+    rat = 0.1  #if cut,img[slice(h*self.rat,h-h*self.rat),slice(w*self.rat,w-w*self.rat)]
 
 config = DefaultConfig()
