@@ -1,4 +1,4 @@
-checkpoints/*
 *.bmp
 *.jpg
 *.jpeg
+checkpoints/*
