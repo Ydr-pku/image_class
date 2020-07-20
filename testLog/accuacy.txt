@@ -33,3 +33,5 @@ AlexNet,cat,100.0%
 AlexNet,dog,0.0%
 InceptionV3,cat,100.0%
 InceptionV3,dog,100.0%
+InceptionV3,classes1,100.0%
+InceptionV3,classes2,100.0%
