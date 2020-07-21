@@ -1,4 +1,4 @@
 *.bmp
 *.jpg
 *.jpeg
-checkpoints/*
+*.h5
