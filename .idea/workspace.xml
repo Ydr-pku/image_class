@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bcdcad1-ed21-4dec-a876-694f6746c12e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/checkpoints/MobileNet/events.out.tfevents.1595304018.Ydrs-MacBook-Pro.local" beforeDir="false" />
-    </list>
+    <list default="true" id="2bcdcad1-ed21-4dec-a876-694f6746c12e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
