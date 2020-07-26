@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bcdcad1-ed21-4dec-a876-694f6746c12e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpoints/InceptionV3/InceptionV3.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpoints/LeNet/events.out.tfevents.1569391724.tsl-777" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpoints/MobileNet/MobileNet.h5" beforeDir="false" afterPath="$PROJECT_DIR$/checkpoints/MobileNet/MobileNet.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpoints/MobileNet/events.out.tfevents.1595646158.Ydrs-MBP.lan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoints/InceptionV3/events.out.tfevents.1595640543.Ydrs-MBP.lan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoints/MobileNet/MobileNet.h5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/testLog/accuacy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testLog/accuacy.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train_class_idx.txt" beforeDir="false" afterPath="$PROJECT_DIR$/train_class_idx.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -179,7 +174,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.47831327" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.70120484" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.66385543" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
