@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bcdcad1-ed21-4dec-a876-694f6746c12e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/checkpoints/InceptionV3/events.out.tfevents.1595640543.Ydrs-MBP.lan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpoints/MobileNet/MobileNet.h5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/testLog/accuacy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testLog/accuacy.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

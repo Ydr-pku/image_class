@@ -43,3 +43,5 @@ MobileNet,class2_2,98.34%
 MobileNet,class1_2,99.69%
 MobileNet,3_class1,100.0%
 MobileNet,3_class2,50.0%
+InceptionV3,3_class2,74.05%
+InceptionV3,3_class1,98.66%
