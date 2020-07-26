@@ -37,3 +37,7 @@ InceptionV3,classes1,100.0%
 InceptionV3,classes2,100.0%
 MobileNet,classes1,100.0%
 MobileNet,classes2,100.0%
+MobileNet,class2_2,98.52%
+MobileNet,class1_2,100.0%
+MobileNet,class2_2,98.34%
+MobileNet,class1_2,99.69%
