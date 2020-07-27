@@ -63,6 +63,7 @@ My environment is based on
 * choose model and change parameter in config.py
 
 # 2.train or test  dataset prepare
+* find . -name "*.DS_Store" -type f -delete
 * python3 mk_class_idx.py
 
 # 3.train your model
