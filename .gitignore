@@ -2,4 +2,6 @@
 *.jpg
 *.jpeg
 *.icloud
+*.pyc
+events*
 存储暂时不用的训练测试样本/*

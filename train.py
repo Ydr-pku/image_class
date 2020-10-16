@@ -18,9 +18,11 @@ from sklearn.model_selection import train_test_split
 from keras.callbacks import TensorBoard
 
 import tensorflow as tf
-config1 = tf.ConfigProto()
+#config1 = tf.ConfigProto()
+config1=tf.compat.v1.ConfigProto()
 config1.gpu_options.allow_growth = True
-tf.Session(config=config1)
+# tf.Session(config=config1)
+tf.compat.v1.Session(config=config1)
 
 
 
